@@ -11,6 +11,6 @@ function flattenMap(map) {
     }
     res[key] = map[key];
   }
-  console.log(res);
+
   return res;
 }

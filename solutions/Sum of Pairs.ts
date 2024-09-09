@@ -12,6 +12,5 @@ export function sumPairs(ints: number[], s: number): [number, number] | void {
     pairs.set(ints[i], secondNum);
   }
   
-  console.log(pairs);
   return undefined;
 }
